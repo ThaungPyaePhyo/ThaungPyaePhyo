@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Hi, I am Thaung Pyae Phyo, a passionate developer focused on web development.
+I am Thaung Pyae Phyo, a passionate developer focused on web development.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PHP,javascript,Web Development Project
