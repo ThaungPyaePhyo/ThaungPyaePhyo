@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love building interactive web apps and experimenting with new tech stacks!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaungPyaePhyo&hide_progress=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaungPyaePhyo&layout=compact&theme=radical)
